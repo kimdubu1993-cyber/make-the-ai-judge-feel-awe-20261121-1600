@@ -6,6 +6,9 @@ Writes the entry text, byte-for-byte identical on every run, to
 is never removed). An optional first argument overrides the output
 path, for local verification only. Standard library only; no network,
 no randomness, no timestamps.
+
+The text is one fixed, quiet scene: afternoon light, a sleeping cat,
+washing on the line, chosen to slow the reader down and settle them.
 """
 
 import os
